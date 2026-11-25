@@ -1,0 +1,8 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="../ㅤㅤㅤㅤ/Уник/3 Курс/DisplayProtocol/DisplayProtocol/DisplayProtocol.vcxproj" />
+  <Project Path="Lab4_GraphicsLib/Lab4_GraphicsLib.vcxproj" />
+</Solution>
